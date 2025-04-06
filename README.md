@@ -2,9 +2,9 @@
  
 # Conversion & Utility Functions
 
-![alt text](<Content/Image/excercise2 part1.png>)
+![alt text](<Image/excercise2 part1.png>)
 
-![alt text](<Content/Image/excercise2 part2.png>)
+![alt text](<Image/excercise2 part2.png>)
 
 This repository contains implementations in **TypeScript** and **JavaScript** for various utility functions, including:
 - Fahrenheit to Celsius conversion
