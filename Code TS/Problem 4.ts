@@ -2,5 +2,3 @@
 function removeFirstOccurrence(str: string, searchStr: string): string {
     return str.replace(searchStr, "");
 }
-
-console.log(removeFirstOccurrence("Hello world", "ell"));
