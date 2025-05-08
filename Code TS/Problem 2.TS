@@ -6,6 +6,3 @@ function convertLength(value: number): string {
         return `${value * 100000}-1 cm`; 
     }
 }
-
-console.log(convertLength(100000));
-console.log(convertLength(1));     
