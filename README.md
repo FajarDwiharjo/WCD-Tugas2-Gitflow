@@ -51,3 +51,9 @@ Checks whether a string is a palindrome.
    ```sh
    tsc script.ts && node script.js
    ```
+
+```test
+ini hanya test
+```
+
+
